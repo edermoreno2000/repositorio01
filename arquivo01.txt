@@ -1,2 +1,6 @@
 Este é o arquivo01
 editado localemte
+terceira linha
+
+
+
